@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to ride-my-way-app build on react.js, node.js and postgres db
 
 You can use the [editor on GitHub](https://github.com/budodi/ride-my-way-app/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
